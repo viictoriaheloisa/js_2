@@ -9,7 +9,7 @@ console.log("Idade:", idade);
 console.log("Nacionalidade:", nacionalidade);
 
 function mostrarMensagem() {
-  alert("Obrigado por visitar o site, fã de " + nome + "!");
+  alert("Obrigado por visitar o site!");
 }
 
 setTimeout(mostrarMensagem, 5000);
